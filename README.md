@@ -1,9 +1,9 @@
-# GitHub Final Project
+# Final Project
 
 ## Project Name
 
-GitHub Final Project
+Final Project
 
 ## Description
 
-This repository contains the GitHub Final Project and its related project files.
+This repository contains the Final Project and its related project files.
